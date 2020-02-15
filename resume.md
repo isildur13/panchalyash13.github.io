@@ -1,8 +1,14 @@
 # Yash Panchal.
 ## DevOps Engineer @ Cygnet Infotech PVT LTD [Aug 2019 - present]
-  * **Tools**: Ansible, Vagrant, Docker, Jenkins, Jira, ELK Stack, Netdata.
-  * **Skills**: Bash Scripting, Python, Go lang, linux:ubuntu.
-  * **Responsibilities**: Linux and Scripting Subject Matter Expert
+  * **Responsibilities**: Linux and Scripting ***Subject Matter Expert*** 
+  * **Skills**: Scripting:- bash, python, go.
+  * **Virtualization Management** :- Vagrant.
+  * **Configuration Management** :- Ansible.
+  * **Containerization** :- Docker.
+  * **CI/CD tool** :- Jenkins.
+  * **Log Monitoring** :- ELK, Loki.
+  * **Monitoring Tools** :- Prometheus & Grafana, Netdata, Portainer.
+  * **Load Balancer & Reverse_proxy** :- nginx, apache2, HAproxy.
   
 ## Internship Trainee @ Cygnet Infotech PVT LTD [Jan 2019 - June 2019]
  * Developed Speaker Recognition API for User Identification and Verification on the basis of 3-4 second speech dataset.
