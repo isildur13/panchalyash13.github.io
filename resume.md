@@ -16,8 +16,6 @@
 
 ## Education
 
-
-
 ### School of Engineering and Applied Science, Ahmedabad University [2015-2019]
      B.Tech Information and Communication Technology (ICT)  
      
