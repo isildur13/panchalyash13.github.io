@@ -1,4 +1,6 @@
 # Yash Panchal.
+  * Contact no: 9426559689   
+  * Email: panchalyash13@gmail.com
 
 ## Experience
 
@@ -12,7 +14,7 @@
   * **Log Monitoring** :- ELK, Loki.
   * **Monitoring Tools** :- Prometheus & Grafana, Netdata, Portainer.
   * **Load Balancer & Reverse_proxy** :- nginx, apache2, HAproxy.
-  
+ 
 ### Internship Trainee @ Cygnet Infotech PVT LTD [Jan 2019 - June 2019]
  * Developed Speaker Recognition API for User Identification and Verification on the basis of 3-4 second speech dataset.
  * Made use of Python, Flask and MYSQL.
@@ -27,4 +29,3 @@
 
 ### School of Engineering and Applied Science, Ahmedabad University [2015-2019]
      B.Tech Information and Communication Technology (ICT)  
-     
