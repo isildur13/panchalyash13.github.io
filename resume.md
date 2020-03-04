@@ -14,6 +14,7 @@
   * **Log Monitoring** :- ELK, Loki.
   * **Monitoring Tools** :- Prometheus & Grafana, Netdata, Portainer.
   * **Load Balancer & Reverse_proxy** :- nginx, apache2, HAproxy.
+  * **Version Control** :-  Git & SVN
  
 ### Internship Trainee @ Cygnet Infotech PVT LTD [Jan 2019 - June 2019]
  * Developed Speaker Recognition API for User Identification and Verification on the basis of 3-4 second speech dataset.
