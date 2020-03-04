@@ -5,7 +5,7 @@
 ## Experience
 
 ### DevOps Engineer @ Cygnet Infotech PVT LTD [Aug 2019 - present]
-  * **Responsibilities**: Linux and Scripting ***SME*** 
+  * **Responsibilities**: Linux and Scripting *SME* 
   * **Scripting**:- bash, python, go.
   * **Virtualization Management** :- Vagrant.
   * **Configuration Management** :- Ansible.
