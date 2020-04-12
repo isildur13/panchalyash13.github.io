@@ -5,16 +5,20 @@
 ## Experience
 
 ### DevOps Engineer @ Cygnet Infotech PVT LTD [Aug 2019 - present]
-  * **Responsibilities**: Linux and Scripting *SME* 
-  * **Scripting**:- bash, python, go.
-  * **Virtualization Management** :- Vagrant.
-  * **Configuration Management** :- Ansible.
-  * **Containerization** :- Docker.
-  * **CI/CD tool** :- Jenkins.
-  * **Log Monitoring** :- ELK, Loki.
-  * **Monitoring Tools** :- Prometheus & Grafana, Netdata, Portainer.
-  * **Load Balancer & Reverse_proxy** :- nginx, apache2, HAproxy.
-  * **Version Control** :-  Git & SVN
+***Part of DevOps team:*** Linux and Scripting SME.
+***Responsibilities :-***
+* Setting up and managing vms using Vagrant and Virtualbox.
+* Provisioning and managing configuration of servers using Ansible.
+* Dockerising existing applications and deploying them.
+* Setting up CI/CD pipeline using Jenkins.
+* Monitoring logs of the target machines using ELK.
+* Monitoring applications and systems using Prometheus & Grafana,
+* Setting up custom scripts using Netdata API endpoints.
+* Managing containers using Portainer.
+* Load balancing and reverse proxy setup using nginx, apache2 and HAproxy as per requirements.
+* Creating Scripts using Bash & Python as per requirements.
+* Database setup and migration of Postgres, Mongodb and mysql
+* Devising multiple deployment strategies along with active monitoring setups.
  
 ### Internship Trainee @ Cygnet Infotech PVT LTD [Jan 2019 - June 2019]
  * Developed Speaker Recognition API for User Identification and Verification on the basis of 3-4 second speech dataset.
