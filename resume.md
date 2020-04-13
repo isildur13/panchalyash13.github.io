@@ -31,7 +31,7 @@
  * Deployed the API on AWS EC2 Instance.
  
 
-### Equity Research Analyst @ Finception.in [June 2019 - July 2019]
+### Equity Research Analyst @ Finception.in [June 2018 - July 2018]
  * Fundamental analysis of DRHP for SME IPO in Indian equity market.
  * Fundamental analysis of annual reports, investor relation presentations and financial statements of publicly listed companies.
 
