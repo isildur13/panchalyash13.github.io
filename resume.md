@@ -17,10 +17,10 @@
 * Setting up custom scripts using Netdata API endpoints.
 * Managing containers using Portainer.
 * Load balancing and reverse proxy setup using nginx, apache2 and HAproxy as per requirements.
-* Creating Scripts using Bash & Python as per requirements.
+* Scripting using Bash & Python as per requirements.
 * Database setup and migration of Postgres, Mongodb and mysql
 * Devising multiple deployment strategies along with active monitoring setups.
-* Wrote load testing scripts using ab and k6. 
+* Writing load testing scripts using ab and k6. 
  
 ### Internship Trainee @ Cygnet Infotech PVT LTD [Jan 2019 - June 2019]
  * Developed Speaker Recognition API for User Identification and Verification on the basis of 3-4 second speech dataset.
@@ -28,7 +28,8 @@
  * Machine Learning model GMM was utilized.
  * Implemented a CI/CD Framework for rapid development and deployment of the API. 
    * Toolset utilized:- Jenkins, Docker, Nginx, MYSQL, Flask
- * Deployed the API on AWS EC2 Instance.
+ * Deployed the API on AWS and GCP.
+ * Did cost analysis between AWS and GCP for the API.
  
 
 ### Equity Research Analyst @ Finception.in [June 2018 - July 2018]
