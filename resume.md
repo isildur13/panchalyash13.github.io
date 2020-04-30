@@ -4,7 +4,7 @@
 
 ## Experience
 
-### DevOps Engineer @ Cygnet Infotech PVT LTD [Aug 2019 - present]
+### DevOps Engineer @ Cygnet Infotech PVT LTD [August 2019 - present]
 ***Part of DevOps team:*** Linux and Scripting SME.
 
 ***Responsibilities:-***
