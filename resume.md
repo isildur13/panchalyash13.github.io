@@ -22,7 +22,7 @@
 * Devising multiple deployment strategies along with active monitoring setups.
 * Writing load testing scripts using ab and k6. 
  
-### Internship Trainee @ Cygnet Infotech PVT LTD [Jan 2019 - June 2019]
+### Internship Trainee @ Cygnet Infotech PVT LTD [Jan 2019 - August 2019]
  * Developed Speaker Recognition API for User Identification and Verification on the basis of 3-4 second speech dataset.
  * Made use of Python, Flask and MYSQL.
  * Machine Learning model GMM was utilized.
